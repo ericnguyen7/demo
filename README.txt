@@ -1,2 +1,2 @@
 Read me please...
-Add secondline back to README.txt file
+Change the content of line2. 
